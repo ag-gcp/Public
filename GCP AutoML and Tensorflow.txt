@@ -1,9 +1,0 @@
-Resources:
-
-1. Tensorflow bests AutoML-Vision in image training model: 
-
-https://towardsdatascience.com/outperforming-google-cloud-automl-vision-with-tensorflow-and-google-deep-learning-vm-34a45e3860ae
-
-- Need test out.
-
-2. 
