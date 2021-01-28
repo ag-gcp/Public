@@ -1,0 +1,6 @@
+
+Good API and coding trainings
+========================================
+1. Python coding
+
+https://dev.to/mbcrump/learn-python-by-building-3-small-apps-14in
